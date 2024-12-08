@@ -29,7 +29,7 @@
 
 ## Purpose
 
-**Suraksha Sadan 2** was developed to support communities during the COVID-19 pandemic by providing:
+**Suraksha Sadan** was developed to support communities during the COVID-19 pandemic by providing:
 1. Accurate information about active cases in your vicinity.
 2. Reliable access to testing facilities to promote early detection.
 3. Telemedicine services to minimize in-person hospital visits, ensuring safety for all.
@@ -56,7 +56,7 @@ This app aims to reduce panic, improve awareness, and enable users to make infor
 
 ## Usage
 
-1. Open **Suraksha Sadan 2** from your device's home screen.
+1. Open **Suraksha Sadan** from your device's home screen.
 2. Grant the necessary permissions (e.g., location access for case tracking).
 3. Use the dashboard to:
    - View real-time COVID-19 case updates near you.
@@ -85,3 +85,9 @@ We welcome contributions to improve **Suraksha Sadan 2**. If you'd like to contr
 2. Create a new branch for your feature or fix:
    ```bash
    git checkout -b feature-name
+3. Commit your changes:
+   git commit -m "Add feature description"
+4. Push to the branch:
+   git push origin feature-name
+5. Open a pull request and describe your changes in detail.
+
